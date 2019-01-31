@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveLikeObject : MonoBehaviour
-{
+public class MoveLikeObject : MonoBehaviour {
 
 	public GameObject Player;
 	
